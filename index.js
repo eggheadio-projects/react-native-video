@@ -4,6 +4,6 @@
 
 import {AppRegistry} from 'react-native';
 import App from './App';
-import {name as ReactNativeStarter} from './app.json';
+import {name as ReactNativeVideo} from './app.json';
 
-AppRegistry.registerComponent(ReactNativeStarter, () => App);
+AppRegistry.registerComponent(ReactNativeVideo, () => App);
